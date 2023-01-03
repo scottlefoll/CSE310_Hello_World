@@ -6,6 +6,7 @@
 
 def hello_world():
     print("Hello World!")
+    print("Enjoying Python so far?")
     
 
 hello_world()
