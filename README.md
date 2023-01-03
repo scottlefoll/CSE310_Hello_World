@@ -19,6 +19,6 @@ This software was written in VS Code running under Windows 10 Pro.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Tit-Tower.com](https://www.git-tower.com/learn/git/commands/git-clone)
+List of websites used in this project:
+* [Git-Tower.com](https://www.git-tower.com/learn/git/commands/git-clone)
 * [Educative.io](https://www.educative.io/answers/how-to-clone-a-git-repository-using-the-command-line)
