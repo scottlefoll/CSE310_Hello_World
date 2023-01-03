@@ -9,9 +9,7 @@ The aim of this assignment is to learn and implement a Git hub repository for ea
 
 This particular code example is a python "Hello World" program.
 
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
+The following is a brief video demo of the code in this assignment:
 [Software Demo Video](https://www.youtube.com/watch?v=Js5yzv5KiNE)
 
 # Development Environment
